@@ -16,3 +16,4 @@ After run re_test.py you can get 'improved_result' including all predicted masks
 # Metrics
 Run the metric.py you can get two csv files that contains F1 score, Accuracy, and loss for
 both model which are shown on poster
+# For the final result, please refer to final report
